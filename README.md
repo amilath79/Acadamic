@@ -1,2 +1,23 @@
 # Acadamic
 Acadamic Researches 
+
+1 - Exploring Factors Influencing House Rental Prices
+
+Abstract— This research provides a comprehensive analysis of the U.S. rental market, aiming to predict rental prices and identify influential factors associated with rental property advertisements. The study leverages a diverse dataset to uncover key features affecting rental prices, including property size, location, and amenities. Various statistical and machine learning techniques, such as correlation analysis, regression modeling, and association rule learning, were employed to analyze the data. The findings indicate that the number of bedrooms and bathrooms, pet-friendliness, and the advertisement source significantly influence rental prices. Machine learning models demonstrated superior performance in predicting rental prices, achieving an accuracy of 82%. Association rule learning uncovered common property feature patterns, shedding light on key factors influencing rental prices and advertising strategies, thus aiding both landlords and renters with practical recommendations in the real estate sector.
+
+
+2 - Understanding Household Debt Dynamics in Sweden: A Comprehensive Analysis
+
+In this study, the relationship between household debt and inflation in Sweden is investigated, with a focus on the impact of the Consumer Price Index (CPI). Historical data spanning from 1980 to 2009 is analyzed using rigorous statistical methods. The methodology involves examining various economic indicators and demographic variables to understand Sweden's economic landscape. The dataset is preprocessed to ensure suitability for analysis.
+An inverse relationship between CPI and household debt is observed, although CPI's influence is not statistically significant. Correlation analysis highlights significant correlations between household debt and Real GDP per capita. Multicollinearity analysis identifies Real GDP per capita as a key predictor. By regenerating the model without highly correlated variables, improvements are achieved.
+The linear regression model demonstrates strong predictive accuracy, explaining approximately 94.6% of household debt variability. Lasso regression emerges as the preferred model, balancing prediction accuracy and generalization ability effectively. For the year 2021, predictions of household debt using Lasso and Ridge models closely align with actual values.
+Overall, this study provides valuable insights into household debt dynamics in Sweden, offering a framework for economists to understand and predict trends more effectively.
+
+3 - Study of Reindeer Habitat Usage and Behavior near Power Grids
+
+Abstract
+This study investigates the habitat usage of reindeer in the Storliden mountain area of Malå municipality, Sweden, focusing on the influence of human infrastructure on reindeer habitat selection behavior. Data from spatial grid surveys conducted in 2009 and 2010 are analyzed to understand the factors affecting reindeer presence, particularly the impact of power grids and roads.
+Through correlation analysis and machine learning algorithms, including random forest and decision tree models, significant correlations between reindeer presence and environmental variables are identified. Distance to power lines emerges as a crucial variable influencing reindeer movement, with areas closer to power grids exhibiting lower reindeer presence.
+Visualization techniques, such as boxplots and heatmaps, illustrate the relationship between reindeer presence and environmental variables, providing insights into reindeer habitat preferences. The findings highlight the importance of considering environmental factors in wildlife conservation and land management practices, particularly in reindeer habitats, to ensure sustainable coexistence between reindeer and human activities in Arctic ecosystems.
+
+4 - Wine quality prediction is a significant area of interest in both the wine industry and the field of data science. Machine learning algorithms provide an opportunity to explore the intricate relationship between various attributes of wine and its perceived quality. In this research, the application of Decision Trees, Random Forests, and Support Vector Machines (SVM) to predict wine quality is investigated. Furthermore, the effects of parameter optimization and pruning techniques on model performance are explored. Additionally, clustering techniques such as K-means and hierarchical clustering are employed to uncover natural groupings within the wine dataset. Through this research, a deeper understanding of wine quality prediction is aimed for, along with insights into potential improvements in model accuracy and clustering performance.
